@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2013\Projects\WcfSrvCitasMedicas\WcfSrvCitasMedicasTest\bin\Debug\WcfSrvCitasMedicasTest.dll
+c:\users\user\documents\visual studio 2013\Projects\WcfSrvCitasMedicas\WcfSrvCitasMedicasTest\bin\Debug\WcfSrvCitasMedicasTest.pdb
+c:\users\user\documents\visual studio 2013\Projects\WcfSrvCitasMedicas\WcfSrvCitasMedicasTest\bin\Debug\WcfSrvCitasMedicas.dll
+c:\users\user\documents\visual studio 2013\Projects\WcfSrvCitasMedicas\WcfSrvCitasMedicasTest\bin\Debug\WcfSrvCitasMedicas.pdb
+c:\users\user\documents\visual studio 2013\Projects\WcfSrvCitasMedicas\WcfSrvCitasMedicasTest\obj\Debug\WcfSrvCitasMedicasTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\WcfSrvCitasMedicas\WcfSrvCitasMedicasTest\obj\Debug\WcfSrvCitasMedicasTest.dll
+c:\users\user\documents\visual studio 2013\Projects\WcfSrvCitasMedicas\WcfSrvCitasMedicasTest\obj\Debug\WcfSrvCitasMedicasTest.pdb
